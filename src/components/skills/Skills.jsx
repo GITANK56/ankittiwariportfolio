@@ -1,5 +1,5 @@
 
-import "./skills.scss";
+import "/Skills.scss";
 import { useRef } from "react";
 import { motion, useInView, } from "framer-motion";
 
